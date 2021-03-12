@@ -1,0 +1,254 @@
+[
+  {
+    "id": 1,
+    "name": "bitfinex",
+    "logo": "https://logodix.com/logo/2070244.png",
+    "referral": "https://www.bitfinex.com/?refcode=a_FCZf0q",
+    "website": "https://bitfinex.com",
+    "api":{
+      "balance": true,
+      "trading": true
+    },
+    "active": true
+  },
+  {
+    "id": 2,
+    "name": "coinex",
+    "logo": "https://d2.alternativeto.net/dist/icons/coinex_132204.jpg?width=128&height=128&mode=crop&upscale=false",
+    "referral": "https://www.coinex.com/register?refer_code=wbgsf",
+    "website": "https://coinex.com",
+    "api":{
+      "balance": true,
+      "trading": true
+    },
+    "active": true
+  },
+  {
+    "id": 3,
+    "name": "poloniex",
+    "logo": "https://miro.medium.com/fit/c/256/256/2*O3o3Gdam4S5MSXfUg_UxGg.png",
+    "referral": "https://poloniex.com",
+    "website": "https://poloniex.com",
+    "api":{
+      "balance": true,
+      "trading": true
+    },
+    "active": true
+  },
+  {
+    "id": 4,
+    "name": "bitforex",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/200x200/4283.png?_=100741e",
+    "referral": "https://www.bitforex.com/en/invitationRegister?inviterId=2379117",
+    "website": "https://www.bitforex.com/",
+    "api":{
+      "balance": true,
+      "trading": true
+    },
+    "active": true
+  },
+  {
+    "id": 5,
+    "name": "p2pb2b",
+    "logo": "https://bitmeet.com/img/symbol/exchanges/300x300/P2PB2B.png",
+    "referral": "https://p2pb2b.io/referral/c6ced1aa-d00a-41f2-9c53-dd7df4a0f6f0",
+    "website": "https://p2pb2b.io/",
+    "api":{
+      "balance": true,
+      "trading": true
+    },
+    "active": true
+  },
+  {
+    "id": 6,
+    "name": "yobit",
+    "logo": "https://images.cryptocompare.com/news/cryptonewsreview/aE0w0200800.jpeg",
+    "referral": "https://yobit.net/?bonus=eLjsz",
+    "website": "https://yobit.net/",
+    "api":{
+      "balance": false,
+      "trading": false
+    },
+    "active": false
+  },
+  {
+    "id": 7,
+    "name": "hitbtc",
+    "logo": "https://lh3.googleusercontent.com/-cG1XKp16JeeLonR3ws972F6KpzSnrzl77ICVSnCB_itPRy7xH5fiYrbvnA9J2bbucwb",
+    "referral": "https://hitbtc.com/",
+    "website": "https://hitbtc.com/",
+    "api":{
+      "balance": true,
+      "trading": true
+    },
+    "active": true
+  },
+  {
+    "id": 8,
+    "name": "binance",
+    "logo": "https://www.binance.com/resources/img/activity/LOGO1.png",
+    "referral": "https://www.binance.com/pt/register?ref=HFCB1F46",
+    "website": "https://www.binance.com/",
+    "api":{
+      "balance": true,
+      "trading": true
+    },
+    "active": true
+  },
+  {
+    "id": 9,
+    "name": "huobi",
+    "logo": "https://cryptologos.cc/logos/huobi-token-ht-logo.png",
+    "referral": "https://www.huobi.vc/en-us/topic/invited/?invite_code=kwg45",
+    "website": "https://www.huobi.vc/",
+    "api":{
+      "balance": true,
+      "trading": false
+    },
+    "active": true
+  },
+  {
+    "id": 11,
+    "name": "crex24",
+    "logo": "https://neironix.io/assets/thumbnails/ab/ab99833232a38f392d5ce344afd98c4f.png",
+    "referral": "https://crex24.com/?refid=wayqb637fwjciz3oay85",
+    "website": "https://crex24.com/",
+    "api":{
+      "balance": true,
+      "trading": true
+    },
+    "active": true
+  },
+  {
+    "id": 12,
+    "name": "kucoin",
+    "logo": "http://icons.iconarchive.com/icons/cjdowner/cryptocurrency-flat/1024/KuCoin-Shares-KCS-icon.png",
+    "referral": "https://www.kucoin.com/?rcode=28bygag",
+    "website": "https://www.kucoin.com/",
+    "api":{
+      "balance": true,
+      "trading": true
+    },
+    "active": true
+  },
+  {
+    "id": 13,
+    "name": "mercatox",
+    "logo": "https://miro.medium.com/max/500/1*sw0A5XfeJUhBsl_5_-1yLA.png",
+    "referral": "https://mercatox.com/?referrer=606907",
+    "website": "https://mercatox.com/",
+    "api":{
+      "balance": false,
+      "trading": false
+    },
+    "active": true
+  },
+  {
+    "id": 14,
+    "name": "idex",
+    "logo": "https://idex.market/static/images/favicon-logo-wt-trans.png",
+    "referral": "https://idex.market/",
+    "website": "https://idex.market/",
+    "api":{
+      "balance": true,
+      "trading": false
+    },
+    "active": true
+  },
+  {
+    "id": 15,
+    "name": "livecoin",
+    "logo": "https://coin.market/img/exchanges/livecoin.svg",
+    "referral": "https://livecoin.net/?from=Livecoin-nTPpWGD3",
+    "website": "https://www.livecoin.net/",
+    "api":{
+      "balance": true,
+      "trading": true
+    },
+    "active": true
+  },
+  {
+    "id": 16,
+    "name": "okex",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2zXMthJ1YIAfndujD8A94yLC7CplIjdBOdfoIXVz0krhD9uLi&s",
+    "referral": "https://www.okex.com/account/register?flag=activity&channelId=1859634",
+    "website": "https://www.okex.com/",
+    "api":{
+      "balance": false,
+      "trading": false
+    },
+    "active": true
+  },
+  {
+    "id": 17,
+    "name": "bittrex",
+    "logo": "https://pbs.twimg.com/profile_images/983757144787857409/7DtMulKo_400x400.jpg",
+    "referral": "https://global.bittrex.com/",
+    "website": "https://global.bittrex.com/",
+    "api":{
+      "balance": true,
+      "trading": true
+    },
+    "active": true
+  },
+  {
+    "id": 18,
+    "name": "graviex",
+    "logo": "https://static.wixstatic.com/media/a27d24_d5af51064c1c4c6b837a500052038e76~mv2.png/v1/fit/w_300,h_300,al_c,q_80/file.png",
+    "referral": "https://graviex.net/signup?ref=017cf0994ea0e15237242c48",
+    "website": "https://graviex.net",
+    "api":{
+      "balance": true,
+      "trading": true
+    },
+    "active": true
+  },
+  {
+    "id": 19,
+    "name": "stex",
+    "logo": "https://www.stex.com/images/stex_logo_square_white_1050x1050.png",
+    "referral": "https://app.stex.com?ref=64711652",
+    "website": "https://app.stex.com/",
+    "api":{
+      "balance": false,
+      "trading": false
+    },
+    "active": true
+  },
+  {
+    "id": 20,
+    "name": "unnamed",
+    "logo": "https://pbs.twimg.com/profile_images/1153768839504547840/nfEhFtLp_400x400.jpg",
+    "referral": "https://www.unnamed.exchange/",
+    "website": "https://www.unnamed.exchange/",
+    "api":{
+      "balance": false,
+      "trading": false
+    },
+    "active": true
+  },
+  {
+    "id": 21,
+    "name": "bitstamp",
+    "logo": "https://static2.coinpaprika.com/exchanges/bitstamp/logo.png?rev=10495459",
+    "referral": "https://www.bitstamp.net/",
+    "website": "https://www.bitstamp.net/",
+    "api":{
+      "balance": true,
+      "trading": true
+    },
+    "active": true
+  },
+  {
+    "id": 22,
+    "name": "btcpop",
+    "logo": "https://coin.dance/home/image/supporter40.png",
+    "referral": "https://btcpop.co/Home/2144/arbator.happy-leaf.io",
+    "website": "https://btcpop.co",
+    "api":{
+      "balance": false,
+      "trading": false
+    },
+    "active": true
+  }
+]
